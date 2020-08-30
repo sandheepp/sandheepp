@@ -8,7 +8,7 @@
 https://www.linkedin.com/in/sandheepp/
 
 ### What am I learning:question::point_down:	
-<code>var topics = ["Machine Learning" , "Microservices" , "Spring"];</code>
+<code>topics = ["Machine Learning" , "Microservices" , "Spring"];</code>
 
 ### See what I write about?
 <code>[Medium Profile](https://medium.com/@sandheepsanju)</code>:zap:  
