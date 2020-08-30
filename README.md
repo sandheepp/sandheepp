@@ -4,7 +4,7 @@
 ### Who am I:question: 
 <code>"Hello, I'm an Engineer"</code>
 
-### Know morea about me?
+### Know more about me?
 https://www.linkedin.com/in/sandheepp/
 
 ### What am I learning:question::point_down:	
