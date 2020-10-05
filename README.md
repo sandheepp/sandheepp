@@ -8,10 +8,10 @@
 https://www.linkedin.com/in/sandheepp/
 
 ### What am I learning:question::point_down:	
-<code>topics = ["Machine Learning" , "Microservices" , "Spring"];</code>
+<code>topics = ["Machine Learning" , "Microservices" , "Python"];</code>
 
 ### See what I write about?
 <code>[Medium Profile](https://medium.com/@sandheepsanju)</code>:zap:  
 
 ### What can I help with:question:
-<code>git commit -m "I really have no idea"</code>
+<code>git commit -m "Shoot."</code>
