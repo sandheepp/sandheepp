@@ -8,7 +8,7 @@
 https://www.linkedin.com/in/sandheepp/
 
 ### What am I learning:question::point_down:	
-<code>topics = ["Machine Learning" , "Microservices" , "Python"];</code>
+<code>topics = ["Machine Learning" , "Microservices" , "Golang", "Python"];</code>
 
 ### See what I write about?
 <code>[Medium Profile](https://medium.com/@sandheepsanju)</code>:zap:  
