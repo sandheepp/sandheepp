@@ -1,7 +1,7 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sandheepp alt=sandheepp/></p>
 
-### Who am I:question: 
+### Who am I?
 <code>"Hello, I'm an Engineer"</code>
 
 ### Know more about me?
