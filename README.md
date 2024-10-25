@@ -7,11 +7,11 @@
 ### Know more about me?
 https://www.linkedin.com/in/sandheepp/
 
-### What am I learning:question::point_down:	
+### What am I learning?
 <code>topics = ["Machine Learning", "Golang", "Python"];</code>
 
 ### See what I write about?
 <code>[Medium Profile](https://medium.com/@sandheepsanju)</code>:zap:  
 
-### What can I help with:question:
+### What can I help with?
 <code>git commit -m "Shoot."</code>
