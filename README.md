@@ -4,11 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=sandheepp&style=flat-square&color=blueviolet" alt="Profile views"/>
 </p>
 
-I'm **Sanju** — a founding engineer building at the intersection of machine learning and real-world systems. I care about shipping models that work outside notebooks.
+A engineer building at the intersection of machine learning and real-world systems. I care about shipping models that work outside notebooks.
 
 ---
 
-### What I'm building
+### What I'm currently building
 
 - **Real-time fish tracking system** — YOLOv8n + ByteTrack on a Jetson Orin Nano with a Logitech C920, because why not bring edge ML to your aquarium
 - **ML infrastructure at a startup** — taking models from prototype to production
